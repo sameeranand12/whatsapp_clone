@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861782093021",
+    "project_id": "whatsapp-messengr-9951b",
+    "storage_bucket": "whatsapp-messengr-9951b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861782093021:android:5251fca25485133a253f34",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861782093021-p8ef8uj204afugurhgucg8vlscitlo5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBke1J9Zqk60Y_MLu2VN9tnFRFNkyfBnLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861782093021-p8ef8uj204afugurhgucg8vlscitlo5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
