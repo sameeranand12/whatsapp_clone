@@ -29,6 +29,13 @@
             {
               "client_id": "861782093021-p8ef8uj204afugurhgucg8vlscitlo5a.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "861782093021-ch1hjcsqjbg49ho9jpe0c0md3k7l6re2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappMessenger"
+              }
             }
           ]
         }

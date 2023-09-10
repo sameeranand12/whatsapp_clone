@@ -27,7 +27,7 @@ class ProfilePage extends StatelessWidget {
             child: Column(
               children: [
                 Container(
-                  color: Theme.of(context).backgroundColor,
+                  color: Theme.of(context).colorScheme.background,
                   child: Column(
                     children: [
                       Text(
